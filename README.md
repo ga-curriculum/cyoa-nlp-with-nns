@@ -1,5 +1,9 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Neural Networks for NLP
 
+## Recording
+This lesson is intended to be given asynchronously. You may view the assigned recording [here](https://youtu.be/s99ezYFuw7k).
+
+
 ## Learning Objectives
 
 *After this lesson, students will be able to:*
@@ -10,15 +14,13 @@
 
 ## Lesson Outline
 
-> **Total Time: 90 mins**
-
-I. **NLP with Neural Networks** (45-60 minutes)
+I. **NLP with Neural Networks** 
 - Recap count vectorizing for NLP problems
 - Word embeddings and GloVe
 - How to apply this technique to deep learning
 - Some additional Keras notes
 
-II. **Code Demo** (30)
+II. **Code Demo** 
 - Read in IMDB review data and create Keras data structures to work with them
 - Train word embeddings with Keras to predict IMDB review sentiment
 - Use pre-trained word embeddings with Keras to predict IMDB review sentiment
